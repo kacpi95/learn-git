@@ -9,10 +9,11 @@
 h1 {
 	margin: 30px 0;
 	font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-
 }
 p {
 	font-family: "Courier New", Courier, monospace;
-	text-align: center;
 	line-height: 1.5;
+}
+.author {
+	margin-top: 20px;
 }
